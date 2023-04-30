@@ -11,6 +11,9 @@ a:link {
 a:hover {
     color: greenyellow
 }
-/* - normalnie link ma byc czarny
-- po najechaniu (hover) `greenyellow`
-- usunac z niego podkreslenie */
+
+.animal-image {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
