@@ -1,0 +1,16 @@
+.description {
+    color: red;
+    background-color: rgba(0, 255, 0, .5);
+}
+
+a:link {
+    text-decoration: none;
+    color: #000000;
+}
+
+a:hover {
+    color: greenyellow
+}
+/* - normalnie link ma byc czarny
+- po najechaniu (hover) `greenyellow`
+- usunac z niego podkreslenie */
